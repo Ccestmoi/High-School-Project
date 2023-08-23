@@ -51,7 +51,6 @@ def Code_a_trouver():
     for i in range(4):
         chiffre = str(randint(1, 6))
         Code.append(chiffre)
-    print(Code)
     return Code
 
 
