@@ -1,4 +1,4 @@
-# Créé par FlorianBREDOW, le 17/12/2021 en Python 3.7
+# Créé par Florian, le 17/12/2021 en Python 3.7
 
 tab = [1, 4, 5, 8, 11, 13, 23, 26, 27]
 valeur = int(input())
