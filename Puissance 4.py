@@ -1,4 +1,4 @@
-# Puissance 4 par Florian Bredow, Pruvost Alexis, Amara Korba Ihsan
+# Puissance 4 par Florian, Pruvost, Ihsan
 
 
 def regles():
