@@ -1,5 +1,5 @@
 # Puissance 4 par Florian, Pruvost, Ihsan
-
+import os
 
 def regles():
     regles = ["""
@@ -125,6 +125,8 @@ def Affichage(tab):
     au dessus.'''
     y = 5
 
+    os.system('cls' if os.name == 'nt' else 'clear')
+    
     # Numéro des colonnes
     print("     1     2     3     4     5     6     7")
     print("     ↓     ↓     ↓     ↓     ↓     ↓     ↓")
